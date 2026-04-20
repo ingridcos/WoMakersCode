@@ -35,18 +35,22 @@ Perfil do GitHub: `Nina-Da-Hora` (https://github.com/Nina-Da-Hora).
 
 - Desafio em **squad** focado na construção de um **pipeline de ETL integrado** (Extract, Transform, Load).  
  - Entrega realizada pelo repositório da Squad **Nina da Hora**, com documentação do fluxo de dados.
- - [Nina da Hora](https://github.com/Nina-Da-Hora)
+
+ _Repositório da squad:_  
+Perfil do GitHub: `Nina-Da-Hora` (https://github.com/Nina-Da-Hora).
 
 ### Semana 15 – Pipeline de ETL + Automação + Tableau _(individual)_
 
 - Desenvolvimento de um **pipeline de ETL integrado com automação**, da coleta à preparação dos dados.  
 - Criação de um **dashboard no Tableau** sobre a **quantidade de mulheres na tecnologia pelo mundo**, com visualizações focadas em análise de cenário e diversidade na área de tecnologia.  
 - Objetivo de conectar o processo de ingestão e tratamento de dados com a camada de visualização e storytelling.
-- [Meu perfil no Tableu](https://public.tableau.com/app/profile/ingrid.ferreira)
+  
+[Meu perfil no Tableau](https://public.tableau.com/app/profile/ingrid.ferreira)
 
 ### Semana 18 – Projeto Storytelling de Dados (Squad Nina da Hora)
 
 - Projeto final de **Storytelling de Dados**, desenvolvido em **squad**.  
 - Análise de uma base de dados de uma empresa de **delivery**, com foco em entender a relação entre **tempo médio de entrega**, **volume de entregas** e **satisfação dos clientes**, apoiando decisões para melhoria do NPS.
-- [Pasta do Projeto](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
+  
+[Pasta do Projeto](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
 
