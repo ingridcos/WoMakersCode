@@ -5,7 +5,7 @@ Os exercícios complementam os **desafios/entregáveis** avaliativos, permitindo
 
 ---
 
-## 📆 Exercícios 
+## 📆 Praticando
 
 ### Semana 2 – Fundamentos de Análise de Dados - Entregável
 
