@@ -1,7 +1,8 @@
 # 📘 EXERCÍCIOS – Prática do Bootcamp WoMakersCode
 
-Esta pasta reúne os **exercícios sugeridos pela WoMakersCode** ao longo do Bootcamp de BI, com o objetivo de praticar e fixar os conteúdos vistos em aula.  
-Os exercícios complementam os **desafios/entregáveis** avaliativos, permitindo treinar fundamentos de análise de dados, SQL, Python, Data Wrangling, ETL e visualização. Alguns exercícios são entregáveis, outros são para prática do que foi visto em aula.
+Esta pasta reúne os **exercícios sugeridos pela WoMakersCode** ao longo do Bootcamp de Business Intelligence, com o objetivo de praticar e fixar os conteúdos vistos em aula. Todos os exercícios foram realizados de forma **individual**.
+
+Eles complementam os **desafios/entregáveis** avaliativos, permitindo treinar fundamentos de análise de dados, SQL, Python, Data Wrangling, ETL e visualização de dados. Alguns exercícios foram utilizados como entregas formais, enquanto outros servem principalmente como prática para reforçar o aprendizado de cada módulo.
 
 ---
 
