@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../IMAGENS/storytelling.png" alt="Storytelling de Dados - Projeto Delivery" width="500px">
+</p>
+
 # Projeto Prático – Storytelling de Dados: Satisfação de Clientes em Delivery
 
 ## 🎯 Contexto do Negócio
