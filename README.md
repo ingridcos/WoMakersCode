@@ -89,7 +89,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Introdução à plataforma Databricks para análise de dados, notebooks, SQL, data lakes e recursos voltados a BI. 
 - **Semanas 20 e 21 – Inteligência Artificial aplicada a BI**  
   Uso de técnicas de IA/ML e recursos de AI/BI para enriquecer análises, automatizar insights e apoiar tomada de decisão em Business Intelligence.
-- **Semana 22 em diante – Plantões tira-dúvidas, Uso do Linkedln e Projeto Final**  
+- **Semanas 22 à 29 – Plantões tira-dúvidas, Uso do Linkedln e Projeto Final**  
   Encontros ao vivo de revisão, dúvidas e aprofundamento.  
 
 ### Projeto Final
