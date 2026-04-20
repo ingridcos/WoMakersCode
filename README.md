@@ -35,9 +35,11 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 ### Banco de dados e SQL
 
-- **Semana 05 – Banco de Dados SQL I e II**  
+- **Semana 05 – Banco de Dados SQL I e II + Entregáveis**  
   Conceitos de banco relacional, modelagem básica, comandos DDL e DML, consultas com `SELECT`, filtros, ordenação, funções de agregação e `JOIN`. 
 - Prática com cenários de negócio e criação de consultas para análise de indicadores.
+- [Entregável 1:](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I)
+- [Entregável 2:](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-II)
 
 ### Python para Dados e Pipelines
 
@@ -93,9 +95,10 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   - ETL/ELT e pipelines,  
   - análise exploratória,  
   - visualização e storytelling,  
-  - publicação e apresentação do case de negócio. 
+  - publicação e apresentação do case de negócio.
+  -[Projeto Final - Análise Estratégica de Marcas Automotivas:](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
-## Tecnologias e ferramentas
+## Ferramentas
 
 Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
