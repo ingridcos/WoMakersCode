@@ -117,5 +117,21 @@ Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
 - Explore a pasta **DESAFIOS/** para ver desafios e projetos realizados.  
 - Explore a pasta **EXERCÍCIOS/** para acompanhar exercícios guiados e exemplos de código.  
-- Explore o Github da squad Nina da Hora ao qual fiz parte durante todo o Bootcamp: Perfil do GitHub: [Nina-Da-Hora](https://github.com/Nina-Da-Hora)
+- Explore o Github da squad Nina da Hora ao qual fiz parte durante todo o Bootcamp: Perfil do GitHub: [Nina-Da-Hora](https://github.com/Nina-Da-Hora
 
+Aqui vai uma versão mais profissional, limpa e estratégica do seu README — mantendo sua essência, mas com mais impacto e clareza:
+
+---
+
+### 👩‍💻 Sobre mim
+
+- Administradora formada pela UniCarioca  
+- Técnica em **Secretariado** pelo CETAP EAD RJ  
+- Bootcamp de **Business Intelligence** (WoMakersCode)  
+- Curso **Python para Análise de Dados** (PrograMaria) 
+- Desenvolvimento de projetos práticos voltados à análise e visualização de dados
+---
+
+### 🌱 Comunidade e iniciativas
+
+Participo de iniciativas que incentivam a presença feminina na tecnologia, como **WoMakersCode** e **PrograMaria**, buscando aprendizado contínuo e networking na área.
