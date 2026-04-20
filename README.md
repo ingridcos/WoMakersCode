@@ -102,7 +102,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   - publicação e apresentação do case de negócio.
   -[Projeto Final - Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
-## 🛠️Tenologias utilizadas
+## 🛠️Tecnologias utilizadas
 
 Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
