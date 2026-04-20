@@ -117,4 +117,3 @@ Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 - Explore a pasta **EXERCÍCIOS/** para acompanhar exercícios guiados e exemplos de código.  
 - Explore o Github da squad Nina da Hora ao qual fiz parte durante todo o Bootcamp: Perfil do GitHub: [Nina-Da-Hora](https://github.com/Nina-Da-Hora)
 
-![Squad do bootcamp](IMAGENS/Squad.png)
