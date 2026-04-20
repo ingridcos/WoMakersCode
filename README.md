@@ -2,7 +2,8 @@
 
 # Bootcamp Business Intelligence - WoMakersCode
 
-A WoMakersCode é a maior comunidade de mulheres na tecnologia da América Latina, com foco em impulsionar a formação técnica e a empregabilidade de mulheres em diversas carreiras digitais, por meio de cursos, mentorias e bootcamps gratuitos ou com bolsas de estudo. 
+A WoMakersCode é a maior comunidade de mulheres na tecnologia da América Latina, com foco em impulsionar a formação técnica e a empregabilidade de mulheres em diversas carreiras digitais, por meio de cursos, mentorias, bootcamps e programas de capacitação.
+A organização também oferece bolsas de estudo para promover acessibilidade às formações e realiza eventos e iniciativas de networking que conectam mulheres ao ecossistema de tecnologia e às oportunidades do mercado.
 
 Tive a oportunidade de ser **bolsista** em um dos bootcamps da WoMakersCode, onde aprofundei meus conhecimentos em Business Intelligence, desenvolvendo projetos práticos para portfólio e aprimorando tanto habilidades técnicas quanto soft skills voltadas para o mercado de trabalho em tecnologia.
 
