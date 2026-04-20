@@ -131,7 +131,6 @@ Aqui vai uma versão mais profissional, limpa e estratégica do seu README — m
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
 - Curso **Python para Análise de Dados** (PrograMaria) 
 - Desenvolvimento de projetos práticos voltados à análise e visualização de dados
----
 
 ## 🌱 Comunidade e iniciativas
 
