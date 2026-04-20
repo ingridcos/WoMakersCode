@@ -126,7 +126,8 @@ Aqui vai uma versão mais profissional, limpa e estratégica do seu README — m
 ## 👩‍💻 Sobre Mim
 
 - Administradora formada pela UniCarioca  
-- Técnica em **Secretariado** pelo CETAP EAD RJ  
+- Técnica em **Secretariado** pelo CETAP EAD RJ
+- Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
 - Curso **Python para Análise de Dados** (PrograMaria) 
 - Desenvolvimento de projetos práticos voltados à análise e visualização de dados
