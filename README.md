@@ -23,7 +23,7 @@ Também tivemos encontros ao vivo com profissionais da área, que compartilharam
 
 O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados: da governança à visualização e IA para BI. 
 
-### Fundação em dados e BI
+### Introdução e Metodologias Ágeis
 
 - **Onboarding**  
   Apresentação do programa, ferramentas utilizadas, ambiente e boas práticas de versionamento e organização.  
