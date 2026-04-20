@@ -7,7 +7,7 @@ A organização também oferece bolsas de estudo para promover acessibilidade à
 
 Tive a oportunidade de ser **bolsista** em um dos bootcamps da WoMakersCode, onde aprofundei meus conhecimentos em Business Intelligence, desenvolvendo projetos práticos para portfólio e aprimorando tanto habilidades técnicas quanto soft skills voltadas para o mercado de trabalho em tecnologia.
 
-## Estrutura deste Portfólio
+## 📂Estrutura deste Portfólio
 
 Repositório com os desafios, exercícios práticos e materiais que fiz ao longo do **Bootcamp de Business Intelligence do Instituto Localiza em parceria com a WoMakersCode**, focado em formação completa para atuar com dados, desde os fundamentos até projetos de BI. 
 
@@ -20,7 +20,7 @@ Repositório com os desafios, exercícios práticos e materiais que fiz ao longo
 
 Também tivemos encontros ao vivo com profissionais da área, que compartilharam experiências sobre carreira em tecnologia, além de plantões tira-dúvidas tanto dos conteúdos quanto dos projetos. Durante o programa, realizamos apresentações ao vivo de quatro projetos, incluindo o projeto final, para a banca da organização, simulando um ambiente real de apresentação de soluções em dados para o mercado.
 
-## Conteúdo do bootcamp
+## 📚Conteúdo do bootcamp
 
 O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados: da governança à visualização e IA para BI. 
 
@@ -101,7 +101,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   - publicação e apresentação do case de negócio.
   -[Projeto Final - Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
-## Ferramentas
+## 🛠️Tenologias utilizadas
 
 Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
@@ -112,7 +112,7 @@ Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 - **Cloud e Plataformas de Dados**: Serviços de Cloud para dados, Databricks para BI  
 - **Conceitos de BI**: ETL/ELT, Data Warehousing, Governança de Dados, Storytelling, IA aplicada a BI
 
-## Como navegar neste repositório
+## 💻Como navegar neste repositório
 
 - Explore a pasta **DESAFIOS/** para ver desafios e projetos realizados.  
 - Explore a pasta **EXERCÍCIOS/** para acompanhar exercícios guiados e exemplos de código.  
