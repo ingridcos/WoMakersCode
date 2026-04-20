@@ -1,3 +1,5 @@
+![Banner do repositório](IMAGENS/banner.png)
+
 # Bootcamp Business Intelligence - WoMakersCode
 
 A WoMakersCode é a maior comunidade de mulheres na tecnologia da América Latina, com foco em impulsionar a formação técnica e a empregabilidade de mulheres em diversas carreiras digitais, por meio de cursos, mentorias e bootcamps gratuitos ou com bolsas de estudo. 
@@ -114,3 +116,5 @@ Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 - Explore a pasta **DESAFIOS/** para ver desafios e projetos realizados.  
 - Explore a pasta **EXERCÍCIOS/** para acompanhar exercícios guiados e exemplos de código.  
 - Explore o Github da squad Nina da Hora ao qual fiz parte durante todo o Bootcamp: Perfil do GitHub: [Nina-Da-Hora](https://github.com/Nina-Da-Hora)
+
+![Squad do bootcamp](IMAGENS/Squad.png)
