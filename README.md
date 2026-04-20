@@ -94,13 +94,14 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 ### Projeto Final
 
+-[Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
+
   Construção de um projeto completo de Business Intelligence, integrando:  
   - modelagem e governança de dados,  
   - ETL/ELT e pipelines,  
   - análise exploratória,  
   - visualização e storytelling,  
   - publicação e apresentação do case de negócio.
-  -[Projeto Final - Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
 ## 🛠️Tecnologias utilizadas
 
