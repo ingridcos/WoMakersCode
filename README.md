@@ -80,7 +80,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Técnicas de storytelling, como estruturar narrativas com dados, destacar insights e comunicar resultados para áreas de negócio.
   [Projeto - Storytelling de Dados - Entrega e Satisfação pelo Brasil](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
 
-  ### Cloud, Databricks e IA aplicada a BI
+### Cloud, Databricks e IA aplicada a BI
 
 - **Semana 19 – Cloud**  
   Conceitos de cloud computing voltados para dados, vantagens, componentes principais e uso de serviços na nuvem em cenários de BI.  
