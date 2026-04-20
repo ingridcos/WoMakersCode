@@ -103,10 +103,10 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
 - **Linguagens**: Python, SQL, SQLite  
-- **Análise e manipulação de dados**: `pandas`, `numpy`, `Google Sheets`, `Google Colab`, 
-- **Visualização e Dashboards**: bibliotecas Python (gráficos), Power BI e Tableau 
+- **Análise e manipulação de dados**: `pandas`, `numpy`, `Google Sheets`, `Google Colab`, `VS Code` 
+- **Visualização e Dashboards**: Bibliotecas Python (gráficos), Power BI e Tableau 
 - **Versionamento**: Git e GitHub  
-- **Cloud e Plataformas de Dados**: serviços de Cloud para dados, Databricks para BI  
+- **Cloud e Plataformas de Dados**: Serviços de Cloud para dados, Databricks para BI  
 - **Conceitos de BI**: ETL/ELT, Data Warehousing, Governança de Dados, Storytelling, IA aplicada a BI
 
 ## Como navegar neste repositório
