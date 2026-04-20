@@ -123,7 +123,7 @@ Aqui vai uma versão mais profissional, limpa e estratégica do seu README — m
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre Mim
 
 - Administradora formada pela UniCarioca  
 - Técnica em **Secretariado** pelo CETAP EAD RJ  
@@ -132,6 +132,6 @@ Aqui vai uma versão mais profissional, limpa e estratégica do seu README — m
 - Desenvolvimento de projetos práticos voltados à análise e visualização de dados
 ---
 
-### 🌱 Comunidade e iniciativas
+## 🌱 Comunidade e iniciativas
 
 Participo de iniciativas que incentivam a presença feminina na tecnologia, como **WoMakersCode** e **PrograMaria**, buscando aprendizado contínuo e networking na área.
