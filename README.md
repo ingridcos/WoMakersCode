@@ -67,7 +67,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   - [Pipeline de ETL Integrado: Análise de Fatores de Sucesso para Redução de Gordura Corporal](https://github.com/Nina-Da-Hora/pipeline-etl-integrado)
 - **Semana 14 – GitHub para Dados** 
   Uso de Git e GitHub no contexto de dados: versionamento de notebooks, organização de repositórios e colaboração. 
-- **Semana 15 – Desafio: Pipeline de ETL integrado**  
+- **Semana 15 – Desafio: Pipeline de ETL integrado + Entregável**  
   Criação de um pipeline completo, do dado bruto ao dataset pronto para consumo em BI.
   - [Pipeline de ETL Integrado](https://github.com/ingridcos/WoMakersCode/blob/main/DESAFIOS/Semana_15_Pipeline_de_ETL_Integrado.ipynb)
 
