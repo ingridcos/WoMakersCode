@@ -62,7 +62,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 ### GitHub, projetos e storytelling
 
-- **Semana 13 – Projeto prático**  
+- **Semana 13 – Projeto prático e apresentação**  
   Desenvolvimento de um projeto de dados unindo extração, transformação e visualização, além da apresentação.
   - [Pipeline de ETL Integrado: Análise de Fatores de Sucesso para Redução de Gordura Corporal](https://github.com/Nina-Da-Hora/pipeline-etl-integrado)
 - **Semana 14 – GitHub para Dados** 
@@ -77,7 +77,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Visualização com bibliotecas Python (por exemplo, Matplotlib/Seaborn/Plotly), boas práticas de dataviz, escolha de gráficos e design.  
 - **Semana 17 – Tableau**  
   Criação de dashboards interativos, conexões com fontes de dados e design de relatórios em ferramenta de BI visual. 
-- **Semana 18 – Storytelling de Dados + Entregável Projeto de Storytelling**  
+- **Semana 18 – Storytelling de Dados + Entregável e apresentação - Projeto de Storytelling**  
   Técnicas de storytelling, como estruturar narrativas com dados, destacar insights e comunicar resultados para áreas de negócio.
   - [Projeto - Storytelling de Dados - Entrega e Satisfação pelo Brasil](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
 
@@ -96,12 +96,21 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 - [Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
-  Construção de um projeto completo de Business Intelligence, integrando:  
-  - modelagem e governança de dados,  
-  - ETL/ELT e pipelines,  
-  - análise exploratória,  
-  - visualização e storytelling,  
-  - publicação e apresentação do case de negócio.
+  Construção de um projeto completo de Business Intelligence, integrando:
+  - MVP (Mínimo Produto Viável) do dashboard
+  - Organização das tarefas no Trello
+  - Governança e diagnóstico dos dados
+  - Data Quality Report dos dados brutos
+  - Manipulação com Google Sheets
+  - Análise exploratória dos dados com python 
+  - Modelagem dos dados com python 
+  - ETL/ELT e pipelines
+  - Geração de banco de dados a partir do python
+  - Engenharia de dados com SQL e criação de consultas
+  - Visualização de dados no Tableau
+  - Slides e storytelling no Canva
+  - Gravação de video com parte das integrantes da Squad Nina da Hora para o GitHub
+  - Entrega e apresentação ao vivo com a outra parte das integrantes da Squad Nina da Hora
 
 ## 🛠️Tecnologias utilizadas
 
