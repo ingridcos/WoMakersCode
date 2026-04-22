@@ -104,7 +104,8 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   - Manipulação com Google Sheets
   - Análise exploratória dos dados com python 
   - Modelagem dos dados com python 
-  - ETL/ELT e pipelines
+  - ETL/ELT e pipelines em python
+  - Automação com python
   - Geração de banco de dados a partir do python
   - Engenharia de dados com SQL e criação de consultas
   - Visualização de dados no Tableau
