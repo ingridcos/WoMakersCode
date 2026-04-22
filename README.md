@@ -41,8 +41,8 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 - **Semana 05 – Banco de Dados SQL I e II + Entregáveis**  
   Conceitos de banco relacional, modelagem básica, comandos DDL e DML, consultas com `SELECT`, filtros, ordenação, funções de agregação e `JOIN`. 
 - Prática com cenários de negócio e criação de consultas para análise de indicadores.
-- [Entregável 1](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I)
-- [Entregável 2](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-II)
+- [Banco de Dados SQL I](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I)
+- [Banco de Dados SQL II](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-II)
 
 ### Python para Dados e Pipelines
 
