@@ -13,7 +13,7 @@ Repositório com os desafios, exercícios práticos e materiais que fiz ao longo
 
 - **DESAFIOS/**  
   Atividades e projetos entregáveis para avaliação e portfólio, feito em equipe. Segue o perfil no GitHub da nossa squad Nina da Hora com os entregáveis.  
-  Perfil do GitHub: [Nina-Da-Hora](https://github.com/Nina-Da-Hora)
+  **Perfil do GitHub:** [Nina-Da-Hora](https://github.com/Nina-Da-Hora)
   
 - **EXERCÍCIOS/**  
   Exercícios guiados feitos durante as aulas, passo a passo, para fixar conceitos e técnicas de Business Intelligence.  
