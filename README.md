@@ -39,9 +39,9 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 ### Banco de dados e SQL
 
 - **Semana 05 – Banco de Dados SQL I e II + Entregáveis**  
-  Conceitos de banco relacional, modelagem básica, comandos DDL e DML, consultas com `SELECT`, filtros, ordenação, funções de agregação e `JOIN`. Prática com cenários de negócio e criação de consultas para análise de indicadores.
-- [Banco de Dados SQL I](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I)
-- [Banco de Dados SQL II](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-II)
+  Conceitos de banco relacional, modelagem básica, comandos DDL e DML, consultas com `SELECT`, filtros, ordenação, funções de agregação e   `JOIN`. Prática com cenários de negócio e criação de consultas para análise de indicadores.
+  - [Banco de Dados SQL I](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I)
+  - [Banco de Dados SQL II](https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-II)
 
 ### Python para Dados e Pipelines
 
@@ -49,7 +49,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Fundamentos de Python, tipos de dados, estruturas de controle, funções e introdução a análise de dados com bibliotecas como `pandas`. 
 - **Semana 07 e 08 – Data Wrangling e Pipelines em Python + Entregável e Apresentação - Pipeline de Vendas**  
   Leitura de dados, tratamento, limpeza, transformação, junções, criação de pipelines e boas práticas de organização de notebooks.
-- [Projeto Pipeline de Vendas](https://github.com/Nina-Da-Hora/data-wrangling-pipeline)  
+  - [Projeto Pipeline de Vendas](https://github.com/Nina-Da-Hora/data-wrangling-pipeline)  
 
 ### ETL, Transformação e Limpeza
 
@@ -64,11 +64,12 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 - **Semana 13 – Projeto prático**  
   Desenvolvimento de um projeto de dados unindo extração, transformação e visualização, além da apresentação.
-- [Pipeline de ETL Integrado: Análise de Fatores de Sucesso para Redução de Gordura Corporal](https://github.com/Nina-Da-Hora/pipeline-etl-integrado)
+  - [Pipeline de ETL Integrado: Análise de Fatores de Sucesso para Redução de Gordura Corporal](https://github.com/Nina-Da-Hora/pipeline-etl-integrado)
 - **Semana 14 – GitHub para Dados** 
   Uso de Git e GitHub no contexto de dados: versionamento de notebooks, organização de repositórios e colaboração. 
 - **Semana 15 – Desafio: Pipeline de ETL integrado**  
   Criação de um pipeline completo, do dado bruto ao dataset pronto para consumo em BI.
+  - [Pipeline de ETL Integrado](https://github.com/ingridcos/WoMakersCode/blob/main/DESAFIOS/Semana_15_Pipeline_de_ETL_Integrado.ipynb)
 
 ### Visualização de dados e dashboards
 
@@ -78,7 +79,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Criação de dashboards interativos, conexões com fontes de dados e design de relatórios em ferramenta de BI visual. 
 - **Semana 18 – Storytelling de Dados + Entregável Projeto de Storytelling**  
   Técnicas de storytelling, como estruturar narrativas com dados, destacar insights e comunicar resultados para áreas de negócio.
-- [Projeto - Storytelling de Dados - Entrega e Satisfação pelo Brasil](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
+  - [Projeto - Storytelling de Dados - Entrega e Satisfação pelo Brasil](https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling)
 
 ### Cloud, Databricks e IA aplicada a BI
 
@@ -93,7 +94,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
 
 ### Projeto Final
 
-- [Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
+  - [Análise Estratégica de Marcas Automotivas](https://github.com/Nina-Da-Hora/analise-estrategica-marcas-automotivas)
 
   Construção de um projeto completo de Business Intelligence, integrando:  
   - modelagem e governança de dados,  
