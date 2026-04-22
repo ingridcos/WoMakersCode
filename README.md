@@ -50,7 +50,7 @@ O bootcamp foi estruturado em módulos semanais, cobrindo todo o ciclo de dados:
   Fundamentos de Python, tipos de dados, estruturas de controle, funções e introdução a análise de dados com bibliotecas como `pandas`. 
 - **Semana 07 e 08 – Data Wrangling e Pipelines em Python + Entregável e Apresentação - Pipeline de Vendas**  
   Leitura de dados, tratamento, limpeza, transformação, junções, criação de pipelines e boas práticas de organização de notebooks.
-  [Projeto Pipeline de Vendas](https://github.com/Nina-Da-Hora/data-wrangling-pipeline)  
+- [Projeto Pipeline de Vendas](https://github.com/Nina-Da-Hora/data-wrangling-pipeline)  
 
 ### ETL, Transformação e Limpeza
 
