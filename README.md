@@ -134,7 +134,7 @@ Algumas das principais ferramentas e tecnologias utilizadas ao longo do bootcamp
 
 ## 👩‍💻 Sobre Mim
 
-- Administradora e Gestora de RH formada pela UniCarioca  
+- Administradora formada pela UniCarioca  
 - Técnica em **Secretariado** pelo CETAP EAD RJ
 - Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
